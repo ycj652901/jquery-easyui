@@ -6,5 +6,11 @@
     "main": "jquery.easyui.min.js",
     "dependencies": {
         
-    }
+    },
+    mapping: [
+        {
+            reg: /^\/locale\/(.*)$/i,
+            release: "$1"
+        }
+    ],
 }
