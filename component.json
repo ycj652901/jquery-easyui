@@ -7,7 +7,7 @@
     "dependencies": {
         
     },
-    mapping: [
+    "mapping": [
         {
             reg: /^\/locale\/(.*)$/i,
             release: "$1"
