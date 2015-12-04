@@ -9,8 +9,8 @@
     },
     "mapping": [
         {
-            reg: /^\/locale\/(.*)$/i,
-            release: "$1"
+            "reg": "/^\/locale\/(.*)$/i",
+            "release": "$1"
         }
     ],
 }
