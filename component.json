@@ -9,7 +9,7 @@
     },
     "mapping": [
         {
-                    "reg": "/^\/README\.md$/i",
+                    "reg": '/^\/README\.md$/i',
                     "release": "$&"
                 },
                 {
