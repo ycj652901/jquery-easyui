@@ -9,7 +9,12 @@
     },
     "mapping": [
         {
-            "reg": "/locale/*"
-        }
+                    "reg": "/^\/README\.md$/i",
+                    "release": "$&"
+                },
+                {
+                    "reg": "*",
+                    "release": "false"
+                }
     ]
 }
