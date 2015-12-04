@@ -10,7 +10,7 @@
     "mapping": [
         {
             "reg": "/locale/*",
-            "release": "$1"
+            "release": "$0"
         }
     ]
 }
