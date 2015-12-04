@@ -3,8 +3,5 @@
     "version": "1.4.4",
     "description": "jquery-easyui",
     "name": "jquery-easyui",
-    "main": "jquery.easyui.min.js",
-    "dependencies": {
-        
-    }
+    "main": "jquery.easyui.min.js"
 }
