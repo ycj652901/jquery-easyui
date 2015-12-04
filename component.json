@@ -1,7 +1,11 @@
 {
-    "repos": "https://github.com/waylau/jquery-easyui.git",
+    "repos": "https://github.com/ycj652901/jquery-easyui",
     "version": "1.4.4",
     "description": "jquery-easyui",
     "name": "jquery-easyui",
-    "main": "jquery.easyui.min.js"
+    "main": "jquery.easyui.min.js",
+    "dependencies": {
+        
+    }
 }
+
